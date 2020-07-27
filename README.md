@@ -12,7 +12,7 @@ Der Einstieg in eine neue Software fällt leicht, wenn das Projekt überschaubar
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/Ringe.jpg)
 
-In der Make-Ausgabe 4/20 wiederum (erhältlich ab 6. August 2020) konstruieren wir mit FreeCAD einen Stempel und fertigen ihn auf dem 3D-Drucker mit dem geeigneten elastischen Material. Auch der Stempel selbst kann 3D – wenn man ihn zum **[Prägen mit Hilfe von Embossing-Pulver](https://heise.de/-4855497)** benutzt.
+In der Make-Ausgabe 4/20 wiederum (erhältlich ab 6. August 2020) **[konstruieren wir mit FreeCAD einen Stempel](https://www.heise.de/select/make/2020/4/2014805251380948921)** und fertigen ihn auf dem 3D-Drucker mit dem geeigneten elastischen Material. Auch der Stempel selbst kann 3D – wenn man ihn zum **[Prägen mit Hilfe von Embossing-Pulver](https://heise.de/-4855497)** benutzt.
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/Stempel.jpg)
 
