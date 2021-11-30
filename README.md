@@ -8,7 +8,25 @@ Maker Media GmbH
 
 ### Einstieg ins Konstruieren mit dem Open-Source-CAD-Programm
 
+Seit der Make-Ausgabe 2/20 beschäftigen wir uns in loser Folge in Artikeln im Heft und neuerdings auch in Videos mit dem kostenlosen 3D-Konstruktionsprogramm FreeCAD. Hier bei GitHub gibt es die STL-Dateien der fertigen Werkstücke aus allen unseren Artikeln zum Download, ebenso eventuell notwendige Vorlagendateien. Sie sind jeweils in einem Ordner zu jedem Artikel einsortiert. 
+
+Auf unserer Webseite haben wir ein eigenes **[Forum zu FreeCAD](https://www.heise.de/forum/Make/Themen-Hilfe/Software-und-Firmware/FreeCAD/forum-453453/)** eingerichtet.
+
+## Serie: Gehäusebau mit FreeCAD
+
+![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/Gehaeuse.png)
+
+Kleinstrechner wie der Raspberry Pi kommen ohne Gehäuse daher. Diese kann man zwar dazukaufen, das ist aber nicht ganz Maker-like. In unserer Artikelserie (beginnend in Make 5/21) zeigen wir deshalb am Beispiel des Raspi, wie Sie mit der kostenlosen Software FreeCAD Ihr eigenes Wunschgehäuse für einen Einplatinenrechner konstruieren, um es auf einem 3D-Drucker zu fertigen. 
+
+Bisher erschienen: 
+* **[Gehäusebau mit FreeCAD, Teil 1](https://www.heise.de/select/make/2021/5/2034509123965342495)**
+* **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)** 
+
+## Vorherige Artikel zu FreeCAD
+
 Der Einstieg in eine neue Software fällt leicht, wenn das Projekt überschaubar ist. Deshalb bauen wir unter dem Titel **[Ring frei für FreeCAD](https://www.heise.de/select/make/2020/2/1587484648302541)** in der Make-Ausgabe 2/20 einen Fingerring mit erhabener Beschriftung außen und eingeprägtem Text innen und lassen ihn einen Dienstleister in massivem Metall 3D-drucken.
+
+Übrigens: Wie man einen Ring wie in Make 2/20 statt mit FreeCAD dessen mit der ebenfalls kostenlosen 3D-Software Blender konstruiert, zeigt die Gratis-Folge **[Projekt: Fingering mit Beschriftung](https://heise.de/-4699385)** aus dem **[3D-Videokurs für Maker: Konstruieren mit Blender 2.8](https://heise.de/-4577160)**
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/Ringe.jpg)
 
@@ -20,9 +38,6 @@ Eine komplexe 3D-Konstruktion steht in der Make-Ausgabe 1/21 auf dem Programm (H
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/Zirkel.jpg)
 
-Hier bei GitHub gibt es die STL-Dateien der fertigen Werkstücke aus allen unseren Artikeln zum Download, ebenso eventuell notwendige Vorlagendateien. Sie sind jeweils in einem Ordner zu jedem Artikel einsortiert. 
 
-Auf unserer Webseite haben wir ein eigenes **[Forum zu FreeCAD](https://www.heise.de/forum/Make/Themen-Hilfe/Software-und-Firmware/FreeCAD/forum-453453/)** eingerichtet.
 
-Übrigens: Wie man einen Ring wie in Make 2/20 statt mit FreeCAD dessen mit der ebenfalls kostenlosen 3D-Software Blender konstruiert, zeigt die Gratis-Folge **[Projekt: Fingering mit Beschriftung](https://heise.de/-4699385)** aus dem **[3D-Videokurs für Maker: Konstruieren mit Blender 2.8](https://heise.de/-4577160)**
 
