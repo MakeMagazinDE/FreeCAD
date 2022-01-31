@@ -21,6 +21,7 @@ Kleinstrechner wie der Raspberry Pi kommen ohne Gehäuse daher. Diese kann man z
 Bisher erschienen: 
 * **[Gehäusebau mit FreeCAD, Teil 1](https://www.heise.de/select/make/2021/5/2034509123965342495)**
 * **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)** 
+* **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**
 
 ## Vorherige Artikel zu FreeCAD
 
