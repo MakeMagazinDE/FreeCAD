@@ -20,8 +20,8 @@ Kleinstrechner wie der Raspberry Pi kommen ohne Gehäuse daher. Diese kann man z
 
 Bisher erschienen: 
 * **[Gehäusebau mit FreeCAD, Teil 1](https://www.heise.de/select/make/2021/5/2034509123965342495)**
-* **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)**, dazu **[Video 1](https://youtu.be/klrXuglH5ps)** 
-* **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/mTOtj-k5WJk)**
+* **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)**, dazu **[Video 1](https://youtu.be/mTOtj-k5WJk)** 
+* **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/klrXuglH5ps)**
 * **[Playlist mit den bisher erschienenen Begleitvideos auf YouTube](https://www.youtube.com/watch?v=mTOtj-k5WJk&list=PLYRmZVixLwIYZBN-rt_pRGcsrzphuYtCA)**
 * Das fertige Gehäuse finden Sie als zwei STL-Dateien hier auf GitHub: **[RasPi-Oberschale](./RasPi-Oberschale.stl)** und **[RasPi-Unterschale](./RasPi-Unterschale.stl)**
 
