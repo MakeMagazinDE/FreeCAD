@@ -23,6 +23,7 @@ Bisher erschienen:
 * **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)**, dazu **[Video 1](https://youtu.be/mTOtj-k5WJk)** 
 * **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/klrXuglH5ps)**
 * **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 4 ](https://www.heise.de/select/make/2022/2/2204009260233886823)**, dazu **[Video 3](https://youtu.be/QHH2Lry66A0)**
+* **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 5 (und Schluss)](https://www.heise.de/select/make/2022/3/2206315233804189178)**, dazu **[Video 4](https://youtu.be/ClRdhIMQjxk)** 
 * **[Playlist mit den bisher erschienenen Begleitvideos auf YouTube](https://www.youtube.com/watch?v=mTOtj-k5WJk&list=PLYRmZVixLwIYZBN-rt_pRGcsrzphuYtCA)**
 * Das fertige Gehäuse finden Sie als zwei STL-Dateien hier auf GitHub: **[RasPi-Oberschale](./RasPi-Oberschale.stl)** und **[RasPi-Unterschale](./RasPi-Unterschale.stl)**
 
