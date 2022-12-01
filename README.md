@@ -24,7 +24,6 @@ Bisher erschienen:
 * **[Technische Zeichnungen mit FreeCAD, Teil 1](https://www.heise.de/select/make/2022/6/2222214045947790831)**
 * * Den fertigen Flaschenverschluss (das Beispielprojekt) finden Sie als STL-Datei hier auf GitHub: **[Flaschenverschluss](./Make_6_22_Flaschenverschluss/Flaschenverschluss2.stl)**
 
-
 ## Serie: Gehäusebau mit FreeCAD
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD/blob/master/doc/Gehaeuse.png)
