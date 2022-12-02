@@ -10,9 +10,7 @@ Maker Media GmbH
 
 Seit der Make-Ausgabe 2/20 beschäftigen wir uns in loser Folge in Artikeln im Heft und neuerdings auch in Videos mit dem kostenlosen 3D-Konstruktionsprogramm FreeCAD. Hier bei GitHub gibt es die STL-Dateien der fertigen Werkstücke aus allen unseren Artikeln zum Download, ebenso eventuell notwendige Vorlagendateien. Sie sind jeweils in einem Ordner zu jedem Artikel einsortiert. 
 
-* Auf unserer Webseite haben wir ein eigenes **[Forum zu FreeCAD](https://www.heise.de/forum/Make/Themen-Hilfe/Software-und-Firmware/FreeCAD/forum-453453/)** eingerichtet.
-
-* Es gibt außerdem eine **[Playlist mit allen bisher erschienenen FreeCAD-Videos von Make auf YouTube](https://www.youtube.com/watch?v=mTOtj-k5WJk&list=PLYRmZVixLwIYZBN-rt_pRGcsrzphuYtCA)**
+Auf unserer Webseite haben wir ein eigenes **[Forum zu FreeCAD](https://www.heise.de/forum/Make/Themen-Hilfe/Software-und-Firmware/FreeCAD/forum-453453/)** eingerichtet.
 
 ## Serie: Technische Zeichnungen mit FreeCAD
 
@@ -35,6 +33,7 @@ Kleinstrechner wie der Raspberry Pi kommen ohne Gehäuse daher. Diese kann man z
 * **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/klrXuglH5ps)**
 * **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 4 ](https://www.heise.de/select/make/2022/2/2204009260233886823)**, dazu **[Video 3](https://youtu.be/QHH2Lry66A0)**
 * **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 5 (und Schluss)](https://www.heise.de/select/make/2022/3/2206315233804189178)**, dazu **[Video 4](https://youtu.be/ClRdhIMQjxk)** 
+* **[Playlist mit allen Videos der Serie auf YouTube](https://www.youtube.com/watch?v=mTOtj-k5WJk&list=PLYRmZVixLwIYZBN-rt_pRGcsrzphuYtCA)**
 * Das fertige Gehäuse finden Sie als zwei STL-Dateien hier auf GitHub: **[RasPi-Oberschale](./Make_5_21:Raspi-Gehaeuse/RasPi-Oberschale.stl)** und **[RasPi-Unterschale](./Make_5_21_Raspi-Gehaeuse/RasPi-Unterschale.stl)**
 
 ## Einzelartikel zu FreeCAD
