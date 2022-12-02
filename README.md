@@ -19,8 +19,8 @@ Auf unserer Webseite haben wir ein eigenes **[Forum zu FreeCAD](https://www.heis
 Auch wenn man Objekte in 3D auf dem PC konstruiert, benötigt man manchmal einen klassischen Plan auf Papier, etwa wenn man ein Teil in Auftrag geben will. Wie man den mit der kostenlosen Software FreeCAD erzeugt, zeigen wir in unserer dreiteiligen Artikelserie.  
 
 Bisher erschienen:
-* **[Technische Zeichnungen mit FreeCAD, Teil 1](https://www.heise.de/select/make/2022/6/2222214045947790831)**
-* * Den fertigen Flaschenverschluss (das Beispielprojekt) finden Sie als STL-Datei hier auf GitHub: **[Flaschenverschluss](./Make_6_22_Flaschenverschluss/Flaschenverschluss2.stl)**
+* **[Technische Zeichnungen mit FreeCAD, Teil 1](https://www.heise.de/select/make/2022/6/2222214045947790831)**, dazu **[Video 1](https://heise.de/-7365277)**
+* Den fertigen Flaschenverschluss (das Beispielprojekt) finden Sie als STL-Datei hier auf GitHub: **[Flaschenverschluss](./Make_6_22_Flaschenverschluss/Flaschenverschluss2.stl)**
 
 ## Serie: Gehäusebau mit FreeCAD
 
