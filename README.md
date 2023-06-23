@@ -21,6 +21,7 @@ Auch wenn man Objekte in 3D auf dem PC konstruiert, benötigt man manchmal einen
 Bisher erschienen:
 * **[Technische Zeichnungen mit FreeCAD, Teil 1, in Make 6/22, S. 100](https://www.heise.de/select/make/2022/6/2222214045947790831)** oder bei **[heise+](https://heise.de/-7456452)**, dazu **[Video 1](https://youtu.be/a-FYQq7coRA)**
 * **[Technische Zeichnungen mit FreeCAD, Teil 2, in Make 1/23, S. 106](https://www.heise.de/select/make/2023/1/2235011533221041518)** oder bei **[heise+](https://heise.de/-7471516)**, dazu **[Video 2](https://youtu.be/ecQbUvc9GI4)**
+* **[Technische Zeichnungen mit FreeCAD, Teil 3 (und Schluss), in Make 2/23, S. 106](https://www.heise.de/select/make/2023/2/2235011533912952209)** oder bei **[heise+](https://heise.de/-7556347)**, dazu **[Video 3](https://www.youtube.com/watch?v=2ZMoOj1Ws68)**
 * Den fertigen Flaschenverschluss (das Beispielprojekt) finden Sie als STL-Datei hier auf GitHub: **[Flaschenverschluss](./Make_6_22_Flaschenverschluss/Flaschenverschluss2.stl)**
 
 ## Serie: Gehäusebau mit FreeCAD
