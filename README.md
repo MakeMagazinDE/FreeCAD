@@ -31,9 +31,9 @@ Bisher erschienen:
 Kleinstrechner wie der Raspberry Pi kommen ohne Gehäuse daher. Diese kann man zwar dazukaufen, das ist aber nicht ganz Maker-like. In unserer Artikelserie (beginnend in Make 5/21) zeigen wir deshalb am Beispiel des Raspi, wie Sie mit der kostenlosen Software FreeCAD Ihr eigenes Wunschgehäuse für einen Einplatinenrechner konstruieren, um es auf einem 3D-Drucker zu fertigen. 
  
 * **[Gehäusebau mit FreeCAD, Teil 1](https://www.heise.de/select/make/2021/5/2034509123965342495)**
-* **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)**, dazu **[Video 1](https://youtu.be/mTOtj-k5WJk)** 
-* **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/klrXuglH5ps)**
-* **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 4](https://www.heise.de/select/make/2022/2/2204009260233886823)**, dazu **[Video 3](https://youtu.be/QHH2Lry66A0)**
+* **[Gehäusebau mit FreeCAD, Teil 2](https://www.heise.de/select/make/2021/6/2034509150125674729)**, dazu **[Video 1](https://youtu.be/mTOtj-k5WJk)** sowie die **[FreeCAD-Datei](./Make_5_21:Raspi-Gehaeuse/RaspiCase_nachVideo1.FCStd)** mit dem Status des Gehäuses nach dem Video 
+* **[Gehäusebau mit FreeCAD, Teil 3](https://www.heise.de/select/make/2022/1/2135511223731904172)**, dazu **[Video 2](https://youtu.be/klrXuglH5ps)** sowie die **[FreeCAD-Datei](./Make_5_21:Raspi-Gehaeuse/RaspiCase_nachVideo2.FCStd)** mit dem Status des Gehäuses nach dem Video
+* **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 4](https://www.heise.de/select/make/2022/2/2204009260233886823)**, dazu **[Video 3](https://youtu.be/QHH2Lry66A0)** sowie die **[FreeCAD-Datei](./Make_5_21:Raspi-Gehaeuse/RaspiCase_nachVideo3.FCStd)** mit dem Status des Gehäuses nach dem Video
 * **[Raspberry-Pi-Gehäuse mit FreeCAD, Teil 5 (und Schluss)](https://www.heise.de/select/make/2022/3/2206315233804189178)**, dazu **[Video 4](https://youtu.be/ClRdhIMQjxk)** 
 * Das fertige Gehäuse finden Sie als zwei STL-Dateien hier auf GitHub: **[RasPi-Oberschale](./Make_5_21:Raspi-Gehaeuse/RasPi-Oberschale.stl)** und **[RasPi-Unterschale](./Make_5_21_Raspi-Gehaeuse/RasPi-Unterschale.stl)**
 
